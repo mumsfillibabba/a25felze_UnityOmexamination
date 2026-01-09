@@ -11,6 +11,6 @@ public class ConstantRight : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position += Vector3.right * 0.1f;
+        transform.position += Vector3.right * 0.01f;
     }
 }
